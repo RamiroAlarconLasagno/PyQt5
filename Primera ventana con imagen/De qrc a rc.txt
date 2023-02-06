@@ -1,0 +1,3 @@
+pyrcc5 -o imagen_rc.py imagen.qrc
+
+Se navega con cd
